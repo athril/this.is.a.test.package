@@ -35,6 +35,8 @@ jobs:
     permissions:
 #      # IMPORTANT: this permission is mandatory for trusted publishing on PyPI
       id-token: write
+      contents: write
+      packages: write
     steps:
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
