@@ -28,7 +28,7 @@ share/python-wheels/
 MANIFEST
 
 # dynamic versioning in _version.py (automatically built for PyPI only)
-src/a/b/_version.py
+src/thisismy/testpackage/_version.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

@@ -1,4 +1,4 @@
-import sparc.client
+import thisismy.testpackage
 
 def test_version():
-    assert sparc.client.__version__
+    assert thisismy.testpackage.__version__
