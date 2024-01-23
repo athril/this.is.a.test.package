@@ -1,4 +1,9 @@
 
+## [v0.0.4] - 2024-01-23
+### :wrench: Chores
+- [`2dc6a56`](https://github.com/athril/this.is.a.test.package/commit/2dc6a568802edfabf20d52e1266f7b2fd2025319) - fixing ci *(commit by [@athril](https://github.com/athril))*
+
+
 ## [v0.0.2] - 2024-01-23
 ### :bug: Bug Fixes
 - [`7951245`](https://github.com/athril/this.is.a.test.package/commit/7951245bd91c4201928c30fb134c401fbcf451f0) - pypi deploy *(commit by [@athril](https://github.com/athril))*
@@ -8,3 +13,4 @@
 
 
 [v0.0.2]: https://github.com/athril/this.is.a.test.package/compare/v0.0.1...v0.0.2
+[v0.0.4]: https://github.com/athril/this.is.a.test.package/compare/v0.0.3...v0.0.4
