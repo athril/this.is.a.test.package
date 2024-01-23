@@ -1,4 +1,9 @@
 
+## [v0.0.6] - 2024-01-23
+### :wrench: Chores
+- [`93d4e87`](https://github.com/athril/this.is.a.test.package/commit/93d4e8709b3618919afa0f0574db7c8286c13384) - fix? *(commit by [@athril](https://github.com/athril))*
+
+
 ## [v0.0.4] - 2024-01-23
 ### :wrench: Chores
 - [`2dc6a56`](https://github.com/athril/this.is.a.test.package/commit/2dc6a568802edfabf20d52e1266f7b2fd2025319) - fixing ci *(commit by [@athril](https://github.com/athril))*
@@ -14,3 +19,4 @@
 
 [v0.0.2]: https://github.com/athril/this.is.a.test.package/compare/v0.0.1...v0.0.2
 [v0.0.4]: https://github.com/athril/this.is.a.test.package/compare/v0.0.3...v0.0.4
+[v0.0.6]: https://github.com/athril/this.is.a.test.package/compare/v0.0.4...v0.0.6
