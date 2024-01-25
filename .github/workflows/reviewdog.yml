@@ -3,6 +3,7 @@ name: Reviewdog
 on:
   pull_request:
     types: [opened, edited, synchronize, review_requested, reopened]
+  push:
 
 jobs:
   reviewdog:
